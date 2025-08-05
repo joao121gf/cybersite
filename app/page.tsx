@@ -150,7 +150,7 @@ export default function CybersitePage() {
       price: "40",
       description: "Perfeito para começar seu negócio online",
       features: [
-        "Site de até 5 páginas otimizadas",
+        "Página estática (Landing Page) otimizada",
         "Design responsivo profissional",
         "Otimização básica para SEO",
         "Formulário de contato integrado",
@@ -162,7 +162,7 @@ export default function CybersitePage() {
     },
     {
       name: "Profissional",
-      price: "80",
+      price: "70",
       description: "Ideal para negócios em crescimento",
       features: [
         "Site de até 10 páginas otimizadas",
@@ -171,14 +171,14 @@ export default function CybersitePage() {
         "Integração com redes sociais",
         "Google Analytics e relatórios",
         "Suporte prioritário 24/7",
-        "Blog integrado",
+        "Direito a 3 alterações mensais gratuitas",
         "Backup automático",
       ],
       popular: true,
     },
     {
       name: "Premium",
-      price: "150",
+      price: "250",
       description: "Para empresas estabelecidas",
       features: [
         "Site com páginas ilimitadas",
